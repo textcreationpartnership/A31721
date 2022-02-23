@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character of a true-Protestant ghostly father</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31721</idno>
+            <idno type="STC">Wing C2000</idno>
+            <idno type="STC">ESTC R26589</idno>
+            <idno type="EEBO-CITATION">09506251</idno>
+            <idno type="OCLC">ocm 09506251</idno>
+            <idno type="VID">43353</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43353)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1327:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Character of a true-Protestant ghostly father</title>
+               </titleStmt>
+               <extent>2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Waite,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of Scotland --  Controversial literature.</term>
+               <term>Covenanters.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="character">
+            <pb n="1" facs="tcp:43353:1" rendition="simple:additions"/>
+            <head>The Character OF A TRUE-PROTESTANT <hi>Ghoſtly Father.</hi>
+            </head>
+            <p>HE is a <hi>Jeſuite</hi> diſguis'd, and differs in nothing but the Superſcription of a falſe Name. His harden'd Conſcience is a Mint where Equivocations and Lyes are coyn'd and they paſs among the Brotherhood as current as the moſt <hi>Sterling</hi> Money, and are held by them as precious. He is a motly-complexion'd Saint; <hi>black</hi> in his natural hue, but garniſht with ſome <hi>innocent</hi> additional colours, borrow'd, or rather ſtoln from the Church of <hi>England</hi>'s Purity. He follows her, as <hi>Judas</hi> did his Maſter, for the Bag's ſake, and for the ſame Bag he will betray her too. His ſpeaking well of her is juſt like the flattery of a Paraſite, to eat her Bread, and all the while laugh at her in his ſleeve. Though none of her <hi>Sons,</hi> yet he is her <hi>moſt humble Servant,</hi> to creep into Preforment, and partake of her Benefices, which he eſteems his right by the ſame rule that licenced the <hi>Iſraelates</hi> to rob the <hi>Egypti<g ref="char:EOLhyphen"/>ans;</hi> and when he has once got into her Bowels he feeds upon her Vitals, and, impatient of the reſtraint, gnaws his way through into the free air of the Presby<g ref="char:EOLhyphen"/>terian Liberty. He conforms out of ſpite, and therefore revenges himſelf upon thoſe who made him do it. His plauſible ſedulity gains him ſome credit, which he abuſes, to diſgrace thoſe who kindly gave him it. None makes a fairer ſhew in writing for her publickly; and he beſprinkles his Books with as little venome as he is able, that, at a dead pinch, when ſome conſiderable job is to be done, he may repair the ſeeming fault of giving her falſe ſmiles, with a real Stab. He can pa<g ref="char:EOLhyphen"/>tiently temporize a long time, and ſtand angling for an opportunity ſome years, hoping at length to catch her by the gills, and then to prey upon her without mercy. While his bolder Fellow-Journey-men in their ſcribbles call her Popiſh, he ſlily jumbles her with Presbytery, reſting well aſſur'd that is the moſt effectual Stratagem, to divide and deſtroy her: and while he pretends to eſtabliſh her REFORMATION, he indeed pulls it down, by ſettling it on a ſandy <hi>baſis.</hi>
+            </p>
+            <p>His hatred to the Church deſcends upon the State, which upholds it; and he owes a good turn to both alike. He will endeavour, though it coſt him the opinion of <hi>Treacherous,</hi> to bring the moſt Loyal Patriot, even his own Maſter, to the Block, if he preſume to touch that Holy of Holies, the Kirk. He is a Scotch <hi>Sinon;</hi> for all his deſigns, like the <hi>Trojan</hi> Wooden Horſe, are pretendedly Sacred, and meer Reliques of Religion; but when the ſeaſon is ripe, they are deliver'd of whole Armies at a litter. He is ſtill ſiding with the factious, not openly, but ſheakingly; thruſting his Noſe into every nook, and buſily prying into all mens affairs; and he will have to do with a ſick or dying mans Interiour, whether he
+<pb n="2" facs="tcp:43353:2"/>will or no, and thinks 'tis then ſet right when 'tis tun'd to the intereſt of the Good Old Cauſe. 'Tis to be fear'd his inſide is True-blue <hi>Cargil;</hi> and that he diſlikes no<g ref="char:EOLhyphen"/>thing in his Spirit but that which is beſt in it, the candour and openneſs; nor that neither but when there wants force to carry it through. However, though he be not bold enough to <hi>act</hi> Treaſon, yet he is crafty enough dextrouſly to ſecond and <hi>uph<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ld</hi> it by ſhams and palliations. When he once gets an Aſcendant over a Soul, he influences it as beſt ſuits with the Holy League, and ſcruples not if ſhe cancels the Government of Grace to ſeal a compact with the Presbyterian Aſſociation. He has his ſet-forms of words fitted to wreſt all Chriſtian Duties to Diſallegiance and Irreligion. He calls the Diſcovering Fellow-Traytors, the <hi>betraying of Friends;</hi> their Juſt and Legal Puniſhment, <hi>the ſhedding of Blood;</hi> the moſt villanous Murthers and Maſſacres for the Cauſe, <hi>well-meant Zeal;</hi> the moſt abominable Conſpirators, <hi>the forlorn hope of Iſrael,</hi> and Heroick Adventurers for the Godly Party.</p>
+            <p>Thus ſeaſon'd and confirm'd in the principles they had formerly imbib'd, 'tis no wonder if they judge it meritorious to dye half Negative: this being the only expedient (open force failing) to preſerve undiſcover'd Traytors, to ex<g ref="char:EOLhyphen"/>aſperate the <hi>Mobile,</hi> by making Juſtice look like Cruelty, to diſgrace the King as a Tyrant, and ſo carry on the Conſpiracy more ſmartly and effectually. His little Popeſhip gives an eaſie Abſolution to all his Penitents, not by publick Bulls, but whiſper'd Inſpirations; which inſtill'd with great aſſurances of Merit in the cant<g ref="char:EOLhyphen"/>ing language, and miſus'd Scripture-phraſes which they have been inur'd to, makes deep impreſſions in thoſe otherwiſe comfortleſs Souls, that they dye Martyrs, and that they offer a holy Sacrifice of their Bodies to God; when alas! (without a ſpecial mercy) he is ſacrificing their Souls to the Devil, the Ring-leader of all Re<g ref="char:EOLhyphen"/>bels. To the Oath of Allegiance he oppoſes the Covenant and Aſſociation; To the High Crime of arraigning the Juſtice of the Nation, the keeping up the repute of the Party's. Innocence, and the revenging their death, which 'tis hop'd may enſue from ſuch ſeditious methods. To the giving Glory to God, by a full and ſincere Confeſſion, the falſe ſatisfaction that they ſuffer what the Law enjoyns, and that no more can be requir'd. If the Penitent be of a noble temper, then he works upon that, and plies him with how mean, and how far from Honour and Gallantry it is to betray others: As if God lov'd people better for being civil Gen<g ref="char:EOLhyphen"/>tlemen than for being ſincere Chriſtians: at leaſt, if he finds him inclin'd to that falſe <hi>punctilio,</hi> he can quickly find a Caſe to wave all objections, which might haz<g ref="char:EOLhyphen"/>zard to rectifie that byaſs. By <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his means Repentance comes to ſignifie little more than a true ſorrow to be hang'd, and a ſubmiſſion to the Laws, which they muſt do whether they will or no. What is more is render'd inſignificant, by being min<g ref="char:EOLhyphen"/>gled with concealments, and couching particular acts of Treaſon under common Words; or, as <hi>Adam</hi> blam'd <hi>Eve,</hi> ſhe the Serpent, with laying the fault on others for drawing them in and enſnaring them. By vertue of which doctrine, and ſuch managery of dying perſons, the King, who is a mirrour of Mercy, is made Cruel, the Judges unjuſt, the Jury foreſworn and partial, the worſt of Traytors innocent, their Memory ſacred, their Fame untainted, the unthinking Rabble is exaſperated and encourag'd, the Nation diſtracted, <hi>Jack Presbyter</hi> is mounted in his Saddle, riding the many-headed Beaſt, Sedition becomes culminant, the Good Old Cauſe triumphant, Treaſon glorify'd both here and in Heaven, the Nations Peace and the eſtabliſht Government of Church and State, nay, his Majeſty's moſt precious Life ſtill left in danger; and all this by the moſt pernicious craft of our <hi>Lycaon</hi> in Sheeps cloathing, that Legion of miſchievous Spirits which herd in the Breaſt of our True-Proteſtant Ghoſtly Father.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Richard Waite.</hi> 1683.</p>
+            <pb facs="tcp:43353:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
